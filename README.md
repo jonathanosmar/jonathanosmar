@@ -1,63 +1,97 @@
-# Jonathan Osmar
-**`Estudante de ADS`**
+# 👨‍💻 Jonathan Osmar
 
-🙎‍♂️ Me chamo Jonathan Osmar, tenho 23 anos e atualmente moro em São Paulo - Capital.  
-💻 Atualmente cursando Analise e Desenvolvimento de Sistemas na Unicid, com interesses em Desenvolvimento tanto Front-end como Back-End.  
-🎯 Busco oportunidades para aplicar meus conhecimentos em projetos reais e continuar meu crescimento como Profissional.    
+<div align="center">
 
-🔗 Contatos  
-<div>
-    <a href = "mailto:jonathankomic@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/k0mic" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/komic/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=180&section=header&text=Jonathan%20Osmar&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Back-End%20Developer%20in%20Progress&descAlignY=58&descSize=18" width="100%" />
 
-##
+### 🚀 Desenvolvedor Back-end em formação
 
-### 🤖 Linguagens e Tecnologias
+**Transformando conhecimento em soluções através da programação.**
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonathanosmar)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 
-<div>  
-<img
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 </div>
 
-<div>
-<br>
+---
 
-##
- 
-### 📊 Estatísticas
+## 🧑‍💻 Sobre mim
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=K0mico&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
+Olá! Sou **Jonathan Osmar**, estudante de Análise e Desenvolvimento de Sistemas na UNICID, com foco em desenvolvimento Back-end.
+
+Tenho interesse em desenvolver soluções eficientes, compreender a lógica por trás dos sistemas e aprimorar minhas habilidades na construção de aplicações.
+
+Atualmente, estou concentrando meus estudos em:
+
+- 🐍 Desenvolvimento utilizando Python.
+- ☕ Programação orientada a objetos com Java.
+- ⚙️ Lógica de programação e resolução de problemas.
+- 🔧 Versionamento de código com Git e GitHub.
+- 📚 Desenvolvimento de projetos práticos para consolidar conhecimentos.
+
+🎯 **Meu objetivo:** conquistar minha primeira oportunidade na área de tecnologia, contribuir com projetos reais e evoluir continuamente como desenvolvedor.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+### Linguagens de programação
+
+<img src="https://skillicons.dev/icons?i=python,java" />
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=jonathanosmar&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF&border_color=6A0DAD&include_all_commits=true" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanosmar&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF&border_color=6A0DAD" />
+
+</div>
+
+---
+
+## 💻 Projetos em destaque
+
+### 🏦 Sistema Bancário
+Projeto desenvolvido em Java para praticar conceitos de programação e desenvolvimento de sistemas.
+
+🔗 [Acessar repositório](https://github.com/jonathanosmar/sistema-bancario)
+
+### 🛒 Sistema de Supermercado
+Sistema simples desenvolvido em Java para praticar lógica de programação e orientação a objetos.
+
+🔗 [Acessar repositório](https://github.com/jonathanosmar/sistema-supermercado-java)
+
+---
+
+## 🎓 Formação acadêmica
+
+- 🎓 **Análise e Desenvolvimento de Sistemas**
+- 🏫 Universidade Cidade de São Paulo (UNICID)
+- 💻 Foco de desenvolvimento: Back-end
+
+---
+
+## 🌐 Vamos nos conectar?
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonathanosmar)
+
+**Sempre aberto a aprender, colaborar e desenvolver novos projetos!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" width="100%" />
+
 </div>
