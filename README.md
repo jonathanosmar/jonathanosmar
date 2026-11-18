@@ -1,3 +1,4 @@
+<img src="jonathanosmar8bit.png" width="100%" alt="Jonathan Osmar"/>
 <!-- =============== TERMINAL DE APRESENTAÇÃO =============== -->
 
 <h2 align="center">👾 SOBRE MIM</h2>
