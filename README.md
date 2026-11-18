@@ -53,8 +53,21 @@
   <sub>Os percentuais indicam a distribuição de linguagens nos repositórios, não o nível de domínio.</sub>
 </p>
 
-<br/>
+<!-- =============== COBRINHA DE CONTRIBUIÇÕES =============== -->
 
+<hr/>
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/jonathanosmar/jonathanosmar/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="Cobrinha roxa percorrendo minhas contribuições do GitHub"
+  />
+</div>
+
+<br/>
 <!-- =============== CONEXÕES =============== -->
 ## 🌐 Vamos nos conectar?
 
@@ -74,18 +87,5 @@
   />
 </a>
 </div>
-<br/>
-
-<!-- =============== COBRINHA DE CONTRIBUIÇÕES =============== -->
-## 🐍 Minhas contribuições
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/jonathanosmar/jonathanosmar/output/main.ylm"
-    width="100%"
-    alt="Cobrinha roxa percorrendo minhas contribuições do GitHub"
-  />
-</div>
-
 <br/>
 
