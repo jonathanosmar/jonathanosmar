@@ -76,13 +76,13 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/jonathanosmar" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-CONNECT-7136A8?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Conecte-se comigo no LinkedIn"
-    />
-  </a>
-
+  <a href="https://www.linkedin.com/in/jonathanosmar" target="_blank"
+   rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-CONNECT-7136A8?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 </div>
 
 <br/>
