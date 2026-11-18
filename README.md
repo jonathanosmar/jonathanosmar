@@ -61,4 +61,36 @@
 <br/>
 
 <hr/>
+
+<!-- =============== CONEXÕES =============== -->
+
+<hr/>
+
+## 🌐 Vamos nos conectar?
+
+<p align="center">
+  <samp>「 VAMOS TROCAR EXPERIÊNCIAS E CONHECIMENTOS 」</samp>
+</p>
+
+<br/>
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-CONNECT-7136A8?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Conecte-se comigo no LinkedIn"
+    />
+  </a>
+
+</div>
+
+<br/>
+
+<hr/>
+
+<p align="center">
+  <samp>💜 Em constante aprendizado e evolução.</samp>
+</p>
+
 </div>
