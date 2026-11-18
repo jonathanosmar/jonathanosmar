@@ -34,6 +34,7 @@ reais, enfrentar novos desafios e evoluir a cada linha
 de código.
 
 ---
+
 <!-- =============== ARSENAL DE CÓDIGO =============== -->
 
 <h2 align="center">🎮 ARSENAL DE CÓDIGO</h2>
@@ -50,9 +51,17 @@ de código.
 
   <br/>
 
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=BB86FC" height="60" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=BB86FC" height="60" />
+  <img src="https://cdn.simpleicons.org/python/BB86FC"
+       width="90" height="90" alt="Python" />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.simpleicons.org/openjdk/BB86FC"
+       width="90" height="90" alt="Java" />
+
+  <br/>
+
+  <samp>PYTHON　　　 JAVA</samp>
 
   <br/><br/><br/><br/>
 
@@ -60,11 +69,22 @@ de código.
 
   <br/>
 
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=BB86FC" height="60" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BB86FC" height="60" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=BB86FC" height="60" />
+  <img src="https://cdn.simpleicons.org/git/BB86FC"
+       width="90" height="90" alt="Git" />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.simpleicons.org/github/BB86FC"
+       width="90" height="90" alt="GitHub" />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.simpleicons.org/visualstudiocode/BB86FC"
+       width="90" height="90" alt="Visual Studio Code" />
+
+  <br/>
+
+  <samp>GIT　　　 GITHUB　　　 VS CODE</samp>
 
 </div>
 
@@ -72,38 +92,6 @@ de código.
 
 <p align="center">
   <samp>━━━━━━━━━━━━━━━━ ◈ ━━━━━━━━━━━━━━━━</samp>
-</p>
-
-<!-- =============== STATUS DO JOGADOR =============== -->
-
-<h2 align="center">📊 STATUS DO JOGADOR</h2>
-
-<p align="center">
-  <samp>「 PROGRESSO E ATIVIDADE NO GITHUB 」</samp>
-</p>
-
-<div align="center">
-
-  <img height="165em"
-    src="https://github-readme-stats.vercel.app/api?username=jonathanosmar&show_icons=true&hide_rank=true&theme=tokyonight&bg_color=0D1117&title_color=BB86FC&icon_color=C084FC&text_color=FFFFFF&border_color=6A0DAD&include_all_commits=true&locale=pt-br"
-  />
-
-  <br/><br/>
-
-  <img height="165em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanosmar&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF&border_color=6A0DAD&locale=pt-br"
-  />
-
-</div>
-
-<p align="center">
-  <samp>「 OS PERCENTUAIS REPRESENTAM A DISTRIBUIÇÃO DE CÓDIGO NOS REPOSITÓRIOS 」</samp>
-</p>
-
-<br/>
-
-<p align="center">
-  <samp>🕹️ PRÓXIMO OBJETIVO: EVOLUIR A CADA PROJETO</samp>
 </p>
 
 ---
