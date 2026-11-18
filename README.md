@@ -81,7 +81,7 @@
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/jonathanosmar/jonathanosmar/output/cobrinha.svg"
+    src="https://raw.githubusercontent.com/jonathanosmar/jonathanosmar/output/main.ylm"
     width="100%"
     alt="Cobrinha roxa percorrendo minhas contribuições do GitHub"
   />
