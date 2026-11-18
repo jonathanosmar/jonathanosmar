@@ -65,9 +65,7 @@
 </div>
 
 <br/>
-
 <!-- =============== CONEXÕES =============== -->
-<p>
 ## 🌐 Vamos nos conectar?
 
 <p align="center">
@@ -76,15 +74,14 @@
 
 <br/>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonathanosmar" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-CONNECT-7136A8?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+</p>
 
-  <a href="https://www.linkedin.com/in/jonathanosmar" target="_blank"
-   rel="noopener noreferrer">
-  <img
-    src="https://img.shields.io/badge/LINKEDIN-CONNECT-7136A8?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-</div>
 <br/>
 
