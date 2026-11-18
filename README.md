@@ -43,28 +43,30 @@ de código.
 
 <div align="center">
 
-  <h3>⌨️ LINGUAGENS EM ESTUDO</h3>
+  
+<!-- LINGUAGENS -->
 
-  <img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
+<h3>⌨️ LINGUAGENS EM ESTUDO</h3>
 
-  <p>
-    <samp>Python • Java</samp>
-  </p>
+<img src="https://cdn.simpleicons.org/python/BB86FC" width="48" />
+<img src="https://cdn.simpleicons.org/java/BB86FC" width="48" />
 
-  <br/>
+<p>
+  <samp>Python • Java</samp>
+</p>
 
-  <h3>🛠️ EQUIPAMENTOS DO DESENVOLVEDOR</h3>
+<br/>
 
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<!-- FERRAMENTAS -->
 
-  <p>
-    <samp>Git • GitHub • Visual Studio Code</samp>
-  </p>
+<h3>🛠️ EQUIPAMENTOS DO DESENVOLVEDOR</h3>
 
-</div>
+<img src="https://cdn.simpleicons.org/git/BB86FC" width="48" />
+<img src="https://cdn.simpleicons.org/github/BB86FC" width="48" />
+<img src="https://cdn.simpleicons.org/visualstudiocode/BB86FC" width="48" />
 
-<p align="center">
-  <samp>━━━━━━━━━━━━━━ ◈ ━━━━━━━━━━━━━━</samp>
+<p>
+  <samp>Git • GitHub • Visual Studio Code</samp>
 </p>
 
 <!-- =============== STATUS DO JOGADOR =============== -->
