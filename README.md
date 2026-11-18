@@ -13,226 +13,107 @@
 <!-- =============== Fim Apresentação =============== -->
 <hr style="border: 0; height: 1px; background: #7136A8;" />
 
-<!-- =============== ARSENAL DO JOGADOR =============== -->
 
-<h2 align="center">🎮 ARSENAL DO JOGADOR</h2>
+<!-- =============== TECNOLOGIAS =============== -->
 
-<p align="center">
-  <samp>「 HABILIDADES E FERRAMENTAS EM DESENVOLVIMENTO 」</samp>
-</p>
+<hr/>
 
-<br/>
+## 🛠️ Tecnologias e ferramentas
 
-<h3 align="center">⌨️ LINGUAGENS EM ESTUDO</h3>
+<div align="center">
 
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <img src="https://cdn.simpleicons.org/python/BB86FC"
-           width="82" height="82" alt="Python"/>
-      <br/><br/>
-      <strong>PYTHON</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=openjdk&logoColor=BB86FC"
-           height="82" alt="Java"/>
-      <br/><br/>
-      <strong>JAVA</strong>
-    </td>
-  </tr>
-</table>
+### Linguagens de programação
 
-<br/>
+<img src="https://skillicons.dev/icons?i=python,java&theme=dark" height="55" />
 
-<h3 align="center">🛠️ FERRAMENTAS DE DESENVOLVIMENTO</h3>
+<br/><br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="130">
-      <img src="https://cdn.simpleicons.org/git/BB86FC"
-           width="76" height="76" alt="Git"/>
-      <br/><br/>
-      <strong>GIT</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.simpleicons.org/github/BB86FC"
-           width="76" height="76" alt="GitHub"/>
-      <br/><br/>
-      <strong>GITHUB</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=BB86FC"
-           height="76" alt="VS Code"/>
-      <br/><br/>
-      <strong>VS CODE</strong>
-    </td>
-  </tr>
-</table>
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="55" />
+
+</div>
 
 <br/>
 
 <hr/>
 
-<!-- =============== STATUS DO JOGADOR =============== -->
+<!-- =============== ESTATÍSTICAS =============== -->
 
-<h2 align="center">📊 STATUS DO JOGADOR</h2>
-
-<p align="center">
-  <samp>「 PROGRESSO E ATIVIDADE NO GITHUB 」</samp>
-</p>
-
-<br/>
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jonathanosmar&show_icons=true&hide_rank=true&theme=tokyonight&bg_color=0D0A16&title_color=BB86FC&icon_color=C084FC&text_color=FFFFFF&border_color=7136A8&include_all_commits=true&locale=pt-br"
-    height="170"
-    alt="Estatísticas do GitHub"
-  />
+<img height="165em"
+src="https://github-readme-stats.vercel.app/api?username=jonathanosmar&show_icons=true&hide_rank=true&theme=tokyonight&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF&border_color=6A0DAD&include_all_commits=true&locale=pt-br"
+/>
 
-  <br/><br/>
+<br/><br/>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanosmar&layout=compact&theme=tokyonight&bg_color=0D0A16&title_color=BB86FC&text_color=FFFFFF&border_color=7136A8&locale=pt-br"
-    height="170"
-    alt="Linguagens utilizadas nos repositórios"
-  />
+<img height="165em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanosmar&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF&border_color=6A0DAD&locale=pt-br"
+/>
 
 </div>
 
 <p align="center">
-  <samp>「 DISTRIBUIÇÃO DE CÓDIGO NOS REPOSITÓRIOS 」</samp>
-</p>
-
-<p align="center">
-  <sub>Os percentuais representam a presença de cada linguagem nos projetos, não o nível de domínio.</sub>
+  <sub>Os percentuais representam a distribuição de linguagens nos repositórios, não o nível de domínio.</sub>
 </p>
 
 <br/>
 
 <hr/>
 
-<!-- =============== MISSÕES CONCLUÍDAS =============== -->
+<!-- =============== PROJETOS =============== -->
 
-<h2 align="center">🏆 MISSÕES CONCLUÍDAS</h2>
+## 💻 Projetos em destaque
 
-<p align="center">
-  <samp>「 PROJETOS DESENVOLVIDOS E DESAFIOS ENFRENTADOS 」</samp>
-</p>
+### 🏦 Sistema Bancário
 
-<br/>
+Projeto desenvolvido em Java para praticar conceitos de programação e desenvolvimento de sistemas.
 
-<table align="center" width="95%">
-  <tr>
-    <td bgcolor="#211333" width="100%" cellpadding="15">
-      <h3>🏦 MISSÃO 01 // SISTEMA BANCÁRIO</h3>
-      <p>
-        Projeto desenvolvido em Java para praticar conceitos de programação e desenvolvimento de sistemas.
-      </p>
-      <p>
-        <strong>TECNOLOGIA:</strong> JAVA
-      </p>
-      <a href="https://github.com/jonathanosmar/sistema-bancario">
-        <img src="https://img.shields.io/badge/ACESSAR_PROJETO-7136A8?style=for-the-badge&logo=github&logoColor=white" alt="Acessar sistema bancário"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td height="15"></td>
-  </tr>
-  <tr>
-    <td bgcolor="#211333" width="100%" cellpadding="15">
-      <h3>🛒 MISSÃO 02 // SISTEMA DE SUPERMERCADO</h3>
-      <p>
-        Sistema desenvolvido em Java para praticar lógica de programação e orientação a objetos.
-      </p>
-      <p>
-        <strong>TECNOLOGIA:</strong> JAVA
-      </p>
-      <a href="https://github.com/jonathanosmar/sistema-supermercado-java">
-        <img src="https://img.shields.io/badge/ACESSAR_PROJETO-7136A8?style=for-the-badge&logo=github&logoColor=white" alt="Acessar sistema de supermercado"/>
-      </a>
-    </td>
-  </tr>
-</table>
+🔗 [Acessar repositório](https://github.com/jonathanosmar/sistema-bancario)
 
 <br/>
 
-<p align="center">
-  <samp>「 CADA PROJETO É UMA NOVA CONQUISTA 」</samp>
-</p>
+### 🛒 Sistema de Supermercado
 
-<hr/>
+Sistema desenvolvido em Java para praticar lógica de programação e orientação a objetos.
 
-<!-- =============== FICHA DO JOGADOR =============== -->
-
-<h2 align="center">🎓 FICHA DO JOGADOR</h2>
-
-<p align="center">
-  <samp>「 FORMAÇÃO E DESENVOLVIMENTO ACADÊMICO 」</samp>
-</p>
-
-<br/>
-
-<table align="center" width="85%">
-  <tr>
-    <td bgcolor="#211333" cellpadding="15">
-      <p align="center">
-        <strong>🎓 FORMAÇÃO ACADÊMICA</strong>
-      </p>
-      <p align="center">
-        Análise e Desenvolvimento de Sistemas
-      </p>
-      <p align="center">
-        Universidade Cidade de São Paulo — UNICID
-      </p>
-      <hr/>
-      <p align="center">
-        <strong>💻 ÁREA DE INTERESSE</strong>
-      </p>
-      <p align="center">
-        Desenvolvimento Back-end
-      </p>
-      <hr/>
-      <p align="center">
-        <strong>⚡ STATUS ATUAL</strong>
-      </p>
-      <p align="center">
-        Em constante evolução.
-      </p>
-    </td>
-  </tr>
-</table>
+🔗 [Acessar repositório](https://github.com/jonathanosmar/sistema-supermercado-java)
 
 <br/>
 
 <hr/>
 
-<!-- =============== CONEXÕES =============== -->
+<!-- =============== FORMAÇÃO =============== -->
 
-<h2 align="center">🌐 CONEXÕES DO JOGADOR</h2>
+## 🎓 Formação acadêmica
 
-<p align="center">
-  <samp>「 VAMOS TROCAR EXPERIÊNCIAS E CONHECIMENTOS 」</samp>
-</p>
+- 🎓 **Análise e Desenvolvimento de Sistemas**
+- 🏫 Universidade Cidade de São Paulo (UNICID)
+- 💻 Área de interesse: Desenvolvimento Back-end
 
-<p align="center">
-  <samp>📡 Novas conexões em breve...</samp>
-</p>
+<br/>
+
+<hr/>
+
+<!-- =============== CONTATO =============== -->
+
+## 🌐 Vamos nos conectar?
+
+<div align="center">
+
+<a href="https://github.com/jonathanosmar">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BB86FC"/>
+</a>
+
+</div>
 
 <br/>
 
 <p align="center">
-  <samp>━━━━━━━━━━━━━━ ◈ ━━━━━━━━━━━━━━</samp>
-</p>
-
-<p align="center">
-  <strong>🕹️ FIM DA FASE? NUNCA. É SÓ O COMEÇO.</strong>
-</p>
-
-<p align="center">
-  <samp>JONATHAN.EXE // 2026</samp>
+  <samp>Em constante aprendizado e evolução.</samp>
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonathanosmar)
