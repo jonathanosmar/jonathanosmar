@@ -1,30 +1,51 @@
 <img src="jonathanosmar8bit.png" width="100%" alt="Jonathan Osmar"/>
-<!-- =============== TERMINAL DE APRESENTAÇÃO =============== -->
+
+<!-- =============== JONATHAN.EXE =============== -->
 
 <h2 align="center">👾 SOBRE MIM</h2>
 
-<table align="center" width="100%" cellpadding="0" cellspacing="0">
+<table align="center" width="95%" cellpadding="0" cellspacing="0">
   <tr>
-    <td bgcolor="#241438" style="padding: 12px 16px; border: 1px solid #7136A8;">
+    <td bgcolor="#251438" style="border: 1px solid #7136A8; padding: 12px 16px;">
       <p align="left">
-        <span>🔴 🟡 🟢</span>
+        🔴 &nbsp; 🟡 &nbsp; 🟢
         &nbsp;&nbsp;&nbsp;
-        <samp>JONATHAN.EXE — TERMINAL DE INICIALIZAÇÃO</samp>
+        <samp>JONATHAN.EXE // SISTEMA DE INICIALIZAÇÃO</samp>
+        <span> </span>
       </p>
     </td>
   </tr>
+
   <tr>
-    <td bgcolor="#160D27" style="padding: 20px; border: 1px solid #7136A8;">
+    <td bgcolor="#160D27" style="border: 1px solid #7136A8; padding: 20px;">
+      <p align="left">
+        <samp>
+          <font color="#C084FC">╔══ IDENTIDADE DO JOGADOR ══╗</font>
+        </samp>
+      </p>
+
       <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=500&color=FFFFFF&background=160D27&vCenter=true&multiline=true&repeat=false&width=850&height=230&lines=%3E+Inicializando+personagem...;%3E+Identificando+usu%C3%A1rio...;JONATHAN+OSMAR;%3E+Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;%3E+Institui%C3%A7%C3%A3o%3A+UNICID;%3E+Bem-vindo+ao+meu+perfil%2C+jogador!;%5BSISTEMA+CARREGADO+COM+SUCESSO%5D"
-        alt="Terminal animado de apresentação de Jonathan Osmar"
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=850&pause=350&color=FFFFFF&background=160D27&vCenter=true&multiline=true&repeat=true&width=850&height=190&cursor=true&cursorColor=C084FC&lines=%3E+Iniciando+apresenta%C3%A7%C3%A3o...;%3E+Identificando+jogador...;Ol%C3%A1%2C+eu+sou+Jonathan+Osmar!;%3E+Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;%3E+Institui%C3%A7%C3%A3o%3A+UNICID;%3E+Seja+bem-vindo+ao+meu+perfil!"
         width="100%"
+        alt="Apresentação animada de Jonathan Osmar"
       />
+
+      <p align="left">
+        <samp>
+          <font color="#C084FC">╚══════════════════════════╝</font>
+        </samp>
+      </p>
+
+      <p align="right">
+        <samp>STATUS: <font color="#A3E635">ONLINE ●</font></samp>
+      </p>
     </td>
   </tr>
 </table>
 
-<!-- =============== FIM DO TERMINAL =============== -->
+<br/>
+
+<!-- =============== FIM JONATHAN.EXE =============== -->
 
 <h2 align="center">🎮 ARSENAL DE CÓDIGO</h2>
 
