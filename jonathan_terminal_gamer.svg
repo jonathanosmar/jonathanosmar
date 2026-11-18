@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430" role="img" aria-labelledby="title desc">
+<title id="title">Jonathan Osmar — apresentação gamer</title>
+<desc id="desc">Tela de apresentação em estilo HUD de videogame retrô, com detalhes pixel art roxos e texto em português.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#1B1030"/>
+    <stop offset=".55" stop-color="#100B1B"/>
+    <stop offset="1" stop-color="#090711"/>
+  </linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7E22CE"/>
+    <stop offset=".55" stop-color="#A855F7"/>
+    <stop offset="1" stop-color="#D946EF"/>
+  </linearGradient>
+  <pattern id="pixels" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#A855F7" stroke-opacity=".09"/>
+    <rect x="3" y="3" width="2" height="2" fill="#C084FC" opacity=".25"/>
+  </pattern>
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <style>
+    .mono { font-family: 'Courier New', monospace; }
+    .white { fill: #F8F4FF; }
+    .muted { fill: #C4B5FD; }
+    .purple { fill: #D8B4FE; }
+    .tiny { font-size: 12px; letter-spacing: 1.4px; }
+  </style>
+</defs>
+
+<!-- fundo e moldura em blocos -->
+<rect x="8" y="8" width="1084" height="414" rx="8" fill="#080611" stroke="#A855F7" stroke-width="2"/>
+<rect x="14" y="14" width="1072" height="402" rx="5" fill="url(#bg)"/>
+<rect x="14" y="14" width="1072" height="402" rx="5" fill="url(#pixels)"/>
+
+<!-- cantos pixelados -->
+<path d="M30 66V30H66 M1034 30H1070V66 M30 364V400H66 M1034 400H1070V364" fill="none" stroke="#D8B4FE" stroke-width="5" stroke-linecap="square"/>
+<path d="M30 84H1070" stroke="#7136A8" stroke-width="1.5"/>
+
+<!-- barra do jogo -->
+<rect x="30" y="30" width="1040" height="42" rx="3" fill="#251438" stroke="#6B21A8"/>
+<g transform="translate(48 41)">
+  <rect width="10" height="10" fill="#FB7185"/>
+  <rect x="15" width="10" height="10" fill="#FBBF24"/>
+  <rect x="30" width="10" height="10" fill="#4ADE80"/>
+</g>
+<text x="105" y="57" class="mono white" font-size="15" font-weight="bold" letter-spacing="1">JONATHAN.EXE</text>
+<text x="550" y="56" class="mono muted" font-size="12" text-anchor="middle">TELA DE APRESENTAÇÃO // PLAYER 01</text>
+<text x="1048" y="56" class="mono" fill="#86EFAC" font-size="11" text-anchor="end">● INICIADO</text>
+
+<!-- painel principal -->
+<rect x="48" y="105" width="1004" height="252" rx="4" fill="#0E0919" stroke="#51227A"/>
+<rect x="48" y="105" width="8" height="252" fill="url(#bar)"/>
+
+<!-- mini etiqueta -->
+<rect x="76" y="128" width="174" height="25" fill="#32164D" stroke="#8B5CF6"/>
+<text x="163" y="145" class="mono purple tiny" text-anchor="middle">NOVO JOGADOR</text>
+
+<!-- ícone pixel gamepad -->
+<g transform="translate(895 130)" shape-rendering="crispEdges">
+  <path d="M18 20H34V12H50V20H66V28H76V48H66V56H50V64H34V56H18V48H8V28H18Z" fill="#A855F7" opacity=".95"/>
+  <rect x="25" y="29" width="7" height="21" fill="#160D27"/>
+  <rect x="18" y="36" width="21" height="7" fill="#160D27"/>
+  <rect x="52" y="30" width="7" height="7" fill="#160D27"/>
+  <rect x="63" y="41" width="7" height="7" fill="#160D27"/>
+</g>
+
+<!-- texto principal -->
+<text x="78" y="194" class="mono muted" font-size="15">$ QUEM ESTÁ JOGANDO?</text>
+<text x="78" y="239" class="mono white" font-size="34" font-weight="bold" letter-spacing="1">JONATHAN OSMAR</text>
+<rect x="78" y="253" width="390" height="3" fill="url(#bar)" filter="url(#softGlow)"/>
+<text x="78" y="292" class="mono white" font-size="17">Estudante de Análise e Desenvolvimento</text>
+<text x="78" y="317" class="mono white" font-size="17">de Sistemas <tspan fill="#C084FC">@ UNICID</tspan></text>
+
+<!-- status inferior -->
+<path d="M78 337H1020" stroke="#51227A" stroke-dasharray="5 6"/>
+<text x="78" y="379" class="mono purple tiny">MISSÃO ATUAL</text>
+<text x="230" y="379" class="mono white" font-size="14">APRENDER • CRIAR • EVOLUIR</text>
+<text x="1020" y="379" class="mono" fill="#A3E635" font-size="12" text-anchor="end">[ BEM-VINDO! ]</text>
+
+<!-- barra decorativa XP -->
+<text x="78" y="405" class="mono muted" font-size="10" letter-spacing="1">JORNADA DE DESENVOLVIMENTO</text>
+<rect x="340" y="397" width="675" height="8" rx="2" fill="#30203F"/>
+<rect x="340" y="397" width="210" height="8" rx="2" fill="url(#bar)">
+  <animate attributeName="width" values="0;210" dur="1.8s" fill="freeze"/>
+</rect>
+<rect x="340" y="397" width="675" height="8" rx="2" fill="none" stroke="#8B5CF6" stroke-opacity=".7"/>
+</svg>
