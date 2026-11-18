@@ -11,10 +11,8 @@
   />
 </p>
 <!-- =============== Fim Apresentação =============== -->
-<hr style="border: 0; height: 1px; background: #7136A8;" />
 
 <!-- =============== Tecnologias =============== -->
-
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -33,7 +31,6 @@
 <br/>
 
 <hr/>
-
 <!-- =============== ESTATÍSTICAS DO GITHUB =============== -->
 
 ## 📊 Estatísticas do GitHub
@@ -64,12 +61,4 @@
 <br/>
 
 <hr/>
-
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonathanosmar)
-
-**Sempre aberto a aprender, colaborar e desenvolver novos projetos!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" width="100%" />
-
 </div>
