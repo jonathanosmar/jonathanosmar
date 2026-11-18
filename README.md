@@ -60,7 +60,6 @@
         alt="Estatísticas do GitHub"
       />
     </td>
-
     <td width="50%" align="center">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanosmar&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF&border_color=6A0DAD&locale=pt-br"
