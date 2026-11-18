@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal de apresentação de Jonathan Osmar</title>
+  <desc id="desc">Terminal gamer roxo com apresentação animada em português.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#211333"/>
+      <stop offset="1" stop-color="#10091D"/>
+    </linearGradient>
+    <linearGradient id="topbar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#351B50"/>
+      <stop offset="1" stop-color="#1B102B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#E879F9"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#A855F7" stroke-opacity=".075" stroke-width="1"/>
+      <circle cx="1" cy="1" r="1" fill="#C084FC" fill-opacity=".22"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="line1"><rect x="82" y="139" width="0" height="24"><animate attributeName="width" values="0;310" dur="1.1s" begin=".2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="line2"><rect x="82" y="183" width="0" height="24"><animate attributeName="width" values="0;440" dur="1.5s" begin="1.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="line3"><rect x="82" y="227" width="0" height="24"><animate attributeName="width" values="0;650" dur="2.1s" begin="3.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="line4"><rect x="82" y="271" width="0" height="24"><animate attributeName="width" values="0;300" dur="1.1s" begin="5.8s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <!-- Moldura externa -->
+  <rect x="8" y="8" width="984" height="374" rx="15" fill="#0D0A14" stroke="#8B5CF6" stroke-width="2"/>
+  <rect x="13" y="13" width="974" height="364" rx="11" fill="url(#panel)"/>
+  <rect x="13" y="13" width="974" height="364" rx="11" fill="url(#grid)"/>
+
+  <!-- Barra superior -->
+  <path d="M24 13H976a11 11 0 0 1 11 11v49H13V24a11 11 0 0 1 11-11Z" fill="url(#topbar)"/>
+  <path d="M13 73H987" stroke="#9D5CDA" stroke-opacity=".65"/>
+  <circle cx="42" cy="43" r="8" fill="#FF5F70"/>
+  <circle cx="70" cy="43" r="8" fill="#FFC857"/>
+  <circle cx="98" cy="43" r="8" fill="#42D392"/>
+  <text x="132" y="48" fill="#E9D5FF" font-family="monospace" font-size="15" font-weight="700" letter-spacing="1">JONATHAN.EXE</text>
+  <text x="500" y="47" fill="#C084FC" font-family="monospace" font-size="12" text-anchor="middle">TERMINAL DE APRESENTAÇÃO</text>
+  <text x="955" y="47" fill="#A3E635" font-family="monospace" font-size="11" text-anchor="end">● ONLINE</text>
+
+  <!-- Cabeçalho interno -->
+  <text x="52" y="112" fill="#C084FC" font-family="monospace" font-size="13" font-weight="700" letter-spacing="2">INICIALIZAÇÃO DO PERFIL</text>
+  <path d="M52 122H948" stroke="#6D28D9" stroke-opacity=".55"/>
+
+  <!-- Comandos com revelação progressiva -->
+  <text x="52" y="157" fill="#C084FC" font-family="monospace" font-size="17" font-weight="700">$</text>
+  <text x="82" y="157" fill="#FFFFFF" font-family="monospace" font-size="17" clip-path="url(#line1)"> Olá! Quem está acessando?</text>
+
+  <text x="52" y="201" fill="#C084FC" font-family="monospace" font-size="17" font-weight="700">$</text>
+  <text x="82" y="201" fill="#FFFFFF" font-family="monospace" font-size="17" clip-path="url(#line2)"> Eu sou Jonathan Osmar.</text>
+
+  <text x="52" y="245" fill="#C084FC" font-family="monospace" font-size="17" font-weight="700">$</text>
+  <text x="82" y="245" fill="#FFFFFF" font-family="monospace" font-size="17" clip-path="url(#line3)"> Estudante de Análise e Desenvolvimento de Sistemas.</text>
+
+  <text x="52" y="289" fill="#C084FC" font-family="monospace" font-size="17" font-weight="700">$</text>
+  <text x="82" y="289" fill="#FFFFFF" font-family="monospace" font-size="17" clip-path="url(#line4)"> É um prazer ter você por aqui!</text>
+
+  <!-- Cursor piscando -->
+  <rect x="82" y="315" width="10" height="19" rx="1" fill="#D8B4FE" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.45;.5;.95;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Rodapé -->
+  <path d="M52 348H948" stroke="#6D28D9" stroke-opacity=".55"/>
+  <text x="52" y="367" fill="#A78BFA" font-family="monospace" font-size="10" letter-spacing="1">SISTEMA CARREGADO</text>
+  <text x="948" y="367" fill="#A3E635" font-family="monospace" font-size="10" text-anchor="end">[ BEM-VINDO AO MEU PERFIL ]</text>
+</svg>
