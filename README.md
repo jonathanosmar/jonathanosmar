@@ -16,26 +16,35 @@
 
 ---
 
-## > PLAYER PROFILE
+<!-- =============== APRESENTAÇÃO EM TERMINAL =============== -->
 
-Hello, World! I'm Jonathan Osmar.
+<h2 align="center">👾 SOBRE MIM</h2>
 
-🎮 | Desenvolvedor Back-End em Progresso.
+<table align="center" width="100%">
+  <tr>
+    <td bgcolor="#17132A">
+      <p align="left">
+        <img src="https://img.shields.io/badge/●-0D1117?style=flat-square&labelColor=FF5F56" />
+        <img src="https://img.shields.io/badge/●-0D1117?style=flat-square&labelColor=FFBD2E" />
+        <img src="https://img.shields.io/badge/●-0D1117?style=flat-square&labelColor=27C93F" />
+        <span>　</span>
+        <samp>jonathan@desenvolvedor: ~/apresentacao</samp>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0D1117">
+      <div align="center">
+        <img
+          src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1000&color=BB86FC&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=220&lines=%24+quem+sou+eu%3F;Ol%C3%A1%2C+eu+sou+Jonathan+Osmar!;%24+apresentacao.txt;Sou+estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;%C3%89+um+prazer+ter+voc%C3%AA+por+aqui!"
+          alt="Apresentação animada de Jonathan Osmar"
+        />
+      </div>
+    </td>
+  </tr>
+</table>
 
-Sou estudante de Análise e Desenvolvimento de
-Sistemas, interessado em tecnologia, programação
-e desenvolvimento de software.
-
-Atualmente, estou explorando o universo Back-end,
-desenvolvendo minhas habilidades em Python e Java.
-
-Meu objetivo é transformar conhecimento em projetos
-reais, enfrentar novos desafios e evoluir a cada linha
-de código.
-
----
-
-<!-- =============== ARSENAL DE CÓDIGO =============== -->
+<!-- =============== FIM DA APRESENTAÇÃO =============== -->
 
 <h2 align="center">🎮 ARSENAL DE CÓDIGO</h2>
 
