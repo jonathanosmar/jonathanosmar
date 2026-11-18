@@ -1,37 +1,17 @@
 <img src="jonathanosmar8bit.png" width="100%" alt="Jonathan Osmar"/>
 
 
-<!-- =============== JONATHAN.EXE =============== -->
-
-<h2 align="center">👾 SOBRE MIM</h2>
-
-<table align="center" width="95%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td bgcolor="#251438" style="padding:12px; border:1px solid #7136A8;">
-      <samp>
-        🔴 &nbsp; 🟡 &nbsp; 🟢
-        &nbsp;&nbsp; JONATHAN.EXE // TERMINAL DE INICIALIZAÇÃO
-      </samp>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#160D27" style="padding:20px; border:1px solid #7136A8;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=16&amp;duration=500&amp;pause=300&amp;color=FFFFFF&amp;background=160D27&amp;multiline=true&amp;repeat=true&amp;width=850&amp;height=180&amp;lines=%3E+Iniciando+apresenta%C3%A7%C3%A3o...;%3E+Identificando+jogador...;Ol%C3%A1%2C+eu+sou+Jonathan+Osmar!;%3E+Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;%3E+Institui%C3%A7%C3%A3o%3A+UNICID;%3E+Bem-vindo+ao+meu+perfil!" width="100%" alt="Apresentação animada de Jonathan Osmar" />
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#251438" align="right" style="padding:10px; border:1px solid #7136A8;">
-      <samp>STATUS: ONLINE ●</samp>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- =============== FIM JONATHAN.EXE =============== -->
+<!-- =============== Apresentação =============== -->
+<p align="center">
+  <img
+    src="./jonathan_terminal.svg"
+    width="100%"
+    alt="Terminal de apresentação de Jonathan Osmar"
+  />
+</p>
 
 <h2 align="center">🎮 ARSENAL DE CÓDIGO</h2>
-
+<!-- =============== Fim Apresentação =============== -->
 <p align="center">
   <samp>「 HABILIDADES E FERRAMENTAS EM DESENVOLVIMENTO 」</samp>
 </p>
