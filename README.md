@@ -54,9 +54,6 @@
 </p>
 
 <!-- =============== COBRINHA DE CONTRIBUIÇÕES =============== -->
-
-<hr/>
-
 ## 🐍 Minhas contribuições
 
 <div align="center">
