@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="jonathanosmar8bit.png" width="100%" alt="Jonathan Osmar - Back-End Developer" />
+<img src="jonathan8bit.png" width="100%" alt="Jonathan Osmar - Back-End Developer" />
 
 ### 🚀 Desenvolvedor Back-end em formação
 
@@ -16,49 +16,72 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## > PLAYER PROFILE
 
-Olá! Sou **Jonathan Osmar**, estudante de Análise e Desenvolvimento de Sistemas na UNICID, com foco em desenvolvimento Back-end.
+Hello, World! I'm Jonathan Osmar.
 
-Tenho interesse em desenvolver soluções eficientes, compreender a lógica por trás dos sistemas e aprimorar minhas habilidades na construção de aplicações.
+🎮 | Desenvolvedor Back-End em Progresso.
 
-Atualmente, estou concentrando meus estudos em:
+Sou estudante de Análise e Desenvolvimento de
+Sistemas, interessado em tecnologia, programação
+e desenvolvimento de software.
 
-- 🐍 Desenvolvimento utilizando Python.
-- ☕ Programação orientada a objetos com Java.
-- ⚙️ Lógica de programação e resolução de problemas.
-- 🔧 Versionamento de código com Git e GitHub.
-- 📚 Desenvolvimento de projetos práticos para consolidar conhecimentos.
+Atualmente, estou explorando o universo Back-end,
+desenvolvendo minhas habilidades em Python e Java.
 
-🎯 **Meu objetivo:** conquistar minha primeira oportunidade na área de tecnologia, contribuir com projetos reais e evoluir continuamente como desenvolvedor.
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-<div align="center">
-
-### Linguagens de programação
-
-<img src="https://skillicons.dev/icons?i=python,java" />
-
-### Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
+Meu objetivo é transformar conhecimento em projetos
+reais, enfrentar novos desafios e evoluir a cada linha
+de código.
 
 ---
 
-## 📊 Estatísticas do GitHub
+<h2 align="center">⚔️ SKILL TREE // HABILIDADES</h2>
+
+<p align="center">
+  <samp>「 TECNOLOGIAS E FERRAMENTAS DESBLOQUEADAS 」</samp>
+</p>
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=jonathanosmar&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF&border_color=6A0DAD&include_all_commits=true" />
+  <h3>⌨️ LINGUAGENS DE PROGRAMAÇÃO</h3>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanosmar&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF&border_color=6A0DAD" />
+  <img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
+
+  <br/><br/>
+
+  <h3>⚙️ FERRAMENTAS E AMBIENTE DE DESENVOLVIMENTO</h3>
+
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
+
+<p align="center">
+  <samp>━━━━━━━━━━━━━━ ◈ ━━━━━━━━━━━━━━</samp>
+</p>
+
+<!-- ==================== PLAYER STATS ==================== -->
+
+<h2 align="center">📊 PLAYER STATS // ESTATÍSTICAS</h2>
+
+<p align="center">
+  <samp>「 DADOS DO JOGADOR 」</samp>
+</p>
+
+<div align="center">
+
+  <img height="165em"
+    src="https://github-readme-stats.vercel.app/api?username=jonathanosmar&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=BB86FC&icon_color=C084FC&text_color=FFFFFF&border_color=6A0DAD&include_all_commits=true"
+  />
+
+  <img height="165em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanosmar&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF&border_color=6A0DAD"
+  />
+
+</div>
+
+<p align="center">
+  <samp>「 LEVEL UP: CONHECIMENTO EM CONSTANTE EVOLUÇÃO 」</samp>
+</p>
 
 ---
 
