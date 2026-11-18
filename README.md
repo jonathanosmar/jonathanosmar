@@ -34,7 +34,6 @@ reais, enfrentar novos desafios e evoluir a cada linha
 de código.
 
 ---
-
 <!-- =============== ARSENAL DE CÓDIGO =============== -->
 
 <h2 align="center">🎮 ARSENAL DE CÓDIGO</h2>
@@ -43,25 +42,36 @@ de código.
   <samp>「 HABILIDADES E FERRAMENTAS EM DESENVOLVIMENTO 」</samp>
 </p>
 
+<br/>
+
 <div align="center">
 
   <h3>⌨️ LINGUAGENS EM ESTUDO</h3>
 
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=BB86FC" height="40" />
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=BB86FC" height="40" />
+  <br/>
 
-  <br/><br/>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=BB86FC" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=BB86FC" height="60" />
+
+  <br/><br/><br/><br/>
 
   <h3>🛠️ FERRAMENTAS DE DESENVOLVIMENTO</h3>
 
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=BB86FC" height="40" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BB86FC" height="40" />
-  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=BB86FC" height="40" />
+  <br/>
+
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=BB86FC" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BB86FC" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=BB86FC" height="60" />
 
 </div>
 
+<br/>
+
 <p align="center">
-  <samp>━━━━━━━━━━━━━━ ◈ ━━━━━━━━━━━━━━</samp>
+  <samp>━━━━━━━━━━━━━━━━ ◈ ━━━━━━━━━━━━━━━━</samp>
 </p>
 
 <!-- =============== STATUS DO JOGADOR =============== -->
@@ -90,9 +100,7 @@ de código.
   <samp>「 OS PERCENTUAIS REPRESENTAM A DISTRIBUIÇÃO DE CÓDIGO NOS REPOSITÓRIOS 」</samp>
 </p>
 
-<p align="center">
-  <samp>━━━━━━━━━━━━━━ ◈ ━━━━━━━━━━━━━━</samp>
-</p>
+<br/>
 
 <p align="center">
   <samp>🕹️ PRÓXIMO OBJETIVO: EVOLUIR A CADA PROJETO</samp>
