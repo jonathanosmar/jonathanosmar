@@ -10,7 +10,6 @@
     alt="Jonathan Osmar - Apresentação gamer"
   />
 </p>
-<!-- =============== Fim Apresentação =============== -->
 
 <!-- =============== Tecnologias =============== -->
 
@@ -25,14 +24,11 @@
 ### Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="48" />
-
 </div>
-
 <br/>
-
 <hr/>
-<!-- =============== ESTATÍSTICAS DO GITHUB =============== -->
 
+<!-- =============== ESTATÍSTICAS DO GITHUB =============== -->
 ## 📊 Estatísticas do GitHub
 
 <table align="center" border="0">
@@ -63,9 +59,6 @@
 <hr/>
 
 <!-- =============== CONEXÕES =============== -->
-
-<hr/>
-
 ## 🌐 Vamos nos conectar?
 
 <p align="center">
@@ -84,7 +77,6 @@
   />
 </a>
 </div>
-
 <br/>
 
 <hr/>
