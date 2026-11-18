@@ -1,5 +1,5 @@
 <img src="jonathanosmar8bit.png" width="100%" alt="Jonathan Osmar"/>
-
+---
 <br/><br/>
 <!-- =============== Apresentação =============== -->
 <p align="center">
