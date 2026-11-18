@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="6c83281a-bfb4-4d50-94c2-1dcd695fc231.png" width="100%" alt="Jonathan Osmar - Back-End Developer" />
+<img src="jonathan8bit.png" width="100%" alt="Jonathan Osmar - Back-End Developer" />
 
 ### 🚀 Desenvolvedor Back-end em formação
 
