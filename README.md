@@ -37,61 +37,30 @@ de código.
 
 <!-- =============== ARSENAL DE CÓDIGO =============== -->
 
-<h2 align="center">🎮 ARSENAL DE CÓDIGO</h2>
 
-<p align="center">
-  <samp>「 HABILIDADES E FERRAMENTAS EM DESENVOLVIMENTO 」</samp>
+<!-- LINGUAGENS -->
+
+<h3>⌨️ LINGUAGENS EM ESTUDO</h3>
+
+<img src="https://cdn.simpleicons.org/python/BB86FC" width="48" />
+<img src="https://cdn.simpleicons.org/java/BB86FC" width="48" />
+
+<p>
+  <samp>Python • Java</samp>
 </p>
 
 <br/>
 
-<div align="center">
+<!-- FERRAMENTAS -->
 
-  <h3>⌨️ LINGUAGENS EM ESTUDO</h3>
+<h3>🛠️ EQUIPAMENTOS DO DESENVOLVEDOR</h3>
 
-  <br/>
+<img src="https://cdn.simpleicons.org/git/BB86FC" width="48" />
+<img src="https://cdn.simpleicons.org/github/BB86FC" width="48" />
+<img src="https://cdn.simpleicons.org/visualstudiocode/BB86FC" width="48" />
 
-  <img src="https://cdn.simpleicons.org/python/BB86FC"
-       width="90" height="90" alt="Python" />
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.simpleicons.org/openjdk/BB86FC"
-       width="90" height="90" alt="Java" />
-
-  <br/>
-
-  <samp>PYTHON　　　 JAVA</samp>
-
-  <br/><br/><br/><br/>
-
-  <h3>🛠️ FERRAMENTAS DE DESENVOLVIMENTO</h3>
-
-  <br/>
-
-  <img src="https://cdn.simpleicons.org/git/BB86FC"
-       width="90" height="90" alt="Git" />
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.simpleicons.org/github/BB86FC"
-       width="90" height="90" alt="GitHub" />
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.simpleicons.org/visualstudiocode/BB86FC"
-       width="90" height="90" alt="Visual Studio Code" />
-
-  <br/>
-
-  <samp>GIT　　　 GITHUB　　　 VS CODE</samp>
-
-</div>
-
-<br/>
-
-<p align="center">
-  <samp>━━━━━━━━━━━━━━━━ ◈ ━━━━━━━━━━━━━━━━</samp>
+<p>
+  <samp>Git • GitHub • Visual Studio Code</samp>
 </p>
 
 ---
