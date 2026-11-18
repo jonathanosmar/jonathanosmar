@@ -2,15 +2,15 @@
 
 
 <!-- =============== Apresentação =============== -->
+
 <p align="center">
   <img
-    src="./jonathan_terminal.svg"
+    src="./jonathan_terminal_gamer.svg"
     width="100%"
-    alt="Terminal de apresentação de Jonathan Osmar"
+    alt="Jonathan Osmar - Apresentação gamer"
   />
 </p>
 
-<h2 align="center">🎮 ARSENAL DE CÓDIGO</h2>
 <!-- =============== Fim Apresentação =============== -->
 <p align="center">
   <samp>「 HABILIDADES E FERRAMENTAS EM DESENVOLVIMENTO 」</samp>
