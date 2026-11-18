@@ -26,7 +26,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="48" />
 </div>
 <br/>
-<hr/>
 
 <!-- =============== ESTATÍSTICAS DO GITHUB =============== -->
 ## 📊 Estatísticas do GitHub
@@ -56,8 +55,6 @@
 
 <br/>
 
-<hr/>
-
 <!-- =============== CONEXÕES =============== -->
 ## 🌐 Vamos nos conectar?
 
@@ -79,20 +76,12 @@
 </div>
 <br/>
 
-<hr/>
-
-<p align="center">
-  <samp>💜 Em constante aprendizado e evolução.</samp>
-</p>
-
 <!-- =============== COBRINHA DE CONTRIBUIÇÕES =============== -->
-<hr/>
-
 ## 🐍 Minhas contribuições
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/jonathanosmar/jonathanosmar/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/jonathanosmar/jonathanosmar/output/cobrinha.svg"
     width="100%"
     alt="Cobrinha roxa percorrendo minhas contribuições do GitHub"
   />
