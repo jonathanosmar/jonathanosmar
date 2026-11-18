@@ -35,23 +35,31 @@ de código.
 
 ---
 
-<h2 align="center">⚔️ SKILL TREE // HABILIDADES</h2>
+<h2 align="center">🎮 ARSENAL DE CÓDIGO</h2>
 
 <p align="center">
-  <samp>「 TECNOLOGIAS E FERRAMENTAS DESBLOQUEADAS 」</samp>
+  <samp>「 HABILIDADES E FERRAMENTAS EM DESENVOLVIMENTO 」</samp>
 </p>
 
 <div align="center">
 
-  <h3>⌨️ LINGUAGENS DE PROGRAMAÇÃO</h3>
+  <h3>⌨️ LINGUAGENS EM ESTUDO</h3>
 
   <img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
 
-  <br/><br/>
+  <p>
+    <samp>Python • Java</samp>
+  </p>
 
-  <h3>⚙️ FERRAMENTAS E AMBIENTE DE DESENVOLVIMENTO</h3>
+  <br/>
+
+  <h3>🛠️ EQUIPAMENTOS DO DESENVOLVEDOR</h3>
 
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+  <p>
+    <samp>Git • GitHub • Visual Studio Code</samp>
+  </p>
 
 </div>
 
@@ -59,28 +67,42 @@ de código.
   <samp>━━━━━━━━━━━━━━ ◈ ━━━━━━━━━━━━━━</samp>
 </p>
 
-<!-- ==================== PLAYER STATS ==================== -->
+<!-- =============== STATUS DO JOGADOR =============== -->
 
-<h2 align="center">📊 PLAYER STATS // ESTATÍSTICAS</h2>
+<h2 align="center">📊 STATUS DO JOGADOR</h2>
 
 <p align="center">
-  <samp>「 DADOS DO JOGADOR 」</samp>
+  <samp>「 PROGRESSO E ATIVIDADE NO GITHUB 」</samp>
 </p>
 
 <div align="center">
 
   <img height="165em"
-    src="https://github-readme-stats.vercel.app/api?username=jonathanosmar&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=BB86FC&icon_color=C084FC&text_color=FFFFFF&border_color=6A0DAD&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=jonathanosmar&show_icons=true&hide=rank&theme=tokyonight&bg_color=0D1117&title_color=BB86FC&icon_color=C084FC&text_color=FFFFFF&border_color=6A0DAD&include_all_commits=true&locale=pt-br"
   />
 
+  <br/><br/>
+
   <img height="165em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanosmar&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF&border_color=6A0DAD"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanosmar&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF&border_color=6A0DAD&locale=pt-br"
   />
 
 </div>
 
 <p align="center">
-  <samp>「 LEVEL UP: CONHECIMENTO EM CONSTANTE EVOLUÇÃO 」</samp>
+  <samp>「 DISTRIBUIÇÃO DE LINGUAGENS NOS REPOSITÓRIOS 」</samp>
+</p>
+
+<p align="center">
+  <samp>⚠️ Os percentuais representam o código dos projetos, não o nível de domínio.</samp>
+</p>
+
+<p align="center">
+  <samp>━━━━━━━━━━━━━━ ◈ ━━━━━━━━━━━━━━</samp>
+</p>
+
+<p align="center">
+  <samp>🕹️ PRÓXIMO OBJETIVO: EVOLUIR A CADA PROJETO</samp>
 </p>
 
 ---
