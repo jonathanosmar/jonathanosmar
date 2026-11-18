@@ -13,10 +13,8 @@
 <!-- =============== Fim Apresentação =============== -->
 <hr style="border: 0; height: 1px; background: #7136A8;" />
 
+<!-- =============== Tecnologias =============== -->
 
-<!-- =============== TECNOLOGIAS E FERRAMENTAS =============== -->
-
-<hr/>
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -25,8 +23,6 @@
 ### Linguagens de programação
 
 <img src="https://skillicons.dev/icons?i=python,java&theme=dark" height="48" />
-
-<br/><br/>
 
 ### Ferramentas
 
