@@ -1,10 +1,8 @@
-
 <p align="center">
   <img src="jonathanosmar8bit.png" width="100%" alt="Jonathan Osmar"/>
 </p>
 
 <hr style="border: 0; height: 1px; background: #7136A8;"/>
-
 <!-- =============== APRESENTAÇÃO =============== -->
 
 <p align="center">
@@ -14,17 +12,13 @@
     alt="Jonathan Osmar - Apresentação gamer"
   />
 </p>
-
 <br/>
 
 <!-- =============== TECNOLOGIAS =============== -->
-
 ## 🛠️ Tecnologias e ferramentas
-
 <div align="center">
-
   <h3>Linguagens de programação</h3>
-
+  
   <img
     src="https://skillicons.dev/icons?i=python,java&theme=dark"
     height="48"
@@ -34,23 +28,17 @@
   <br/>
 
   <h3>Ferramentas</h3>
-
   <img
     src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"
     height="48"
     alt="Git, GitHub e Visual Studio Code"
   />
-
 </div>
-
 <br/>
-
 <hr/>
 
 <!-- =============== ESTATÍSTICAS DO GITHUB =============== -->
-
 ## 📊 Estatísticas do GitHub
-
 <table align="center" border="0">
   <tr>
     <td width="50%" align="center">
@@ -76,15 +64,11 @@
     não o nível de domínio.
   </sub>
 </p>
-
 <br/>
-
 <hr/>
 
 <!-- =============== COBRINHA DE CONTRIBUIÇÕES =============== -->
-
 ## 🐍 Minhas contribuições
-
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/jonathanosmar/jonathanosmar/output/github-contribution-grid-snake.svg"
@@ -92,15 +76,11 @@
     alt="Cobrinha roxa percorrendo minhas contribuições do GitHub"
   />
 </div>
-
 <br/>
-
 <hr/>
 
 <!-- =============== CONEXÕES =============== -->
-
 ## 🌐 Vamos nos conectar?
-
 <p align="center">
   <samp>「 VAMOS TROCAR EXPERIÊNCIAS E CONHECIMENTOS 」</samp>
 </p>
@@ -119,11 +99,8 @@
     />
   </a>
 </p>
-
 <br/>
-
 <hr/>
-
 <p align="center">
   <samp>💜 Em constante aprendizado e evolução.</samp>
 </p>
