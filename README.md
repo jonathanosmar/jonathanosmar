@@ -1,44 +1,27 @@
 <img src="jonathanosmar8bit.png" width="100%" alt="Jonathan Osmar"/>
 
+
 <!-- =============== JONATHAN.EXE =============== -->
 
 <h2 align="center">👾 SOBRE MIM</h2>
 
 <table align="center" width="95%" cellpadding="0" cellspacing="0">
   <tr>
-    <td bgcolor="#251438" style="border: 1px solid #7136A8; padding: 12px 16px;">
-      <p align="left">
+    <td bgcolor="#251438" style="padding:12px; border:1px solid #7136A8;">
+      <samp>
         🔴 &nbsp; 🟡 &nbsp; 🟢
-        &nbsp;&nbsp;&nbsp;
-        <samp>JONATHAN.EXE // SISTEMA DE INICIALIZAÇÃO</samp>
-        <span> </span>
-      </p>
+        &nbsp;&nbsp; JONATHAN.EXE // TERMINAL DE INICIALIZAÇÃO
+      </samp>
     </td>
   </tr>
-
   <tr>
-    <td bgcolor="#160D27" style="border: 1px solid #7136A8; padding: 20px;">
-      <p align="left">
-        <samp>
-          <font color="#C084FC">╔══ IDENTIDADE DO JOGADOR ══╗</font>
-        </samp>
-      </p>
-
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=850&pause=350&color=FFFFFF&background=160D27&vCenter=true&multiline=true&repeat=true&width=850&height=190&cursor=true&cursorColor=C084FC&lines=%3E+Iniciando+apresenta%C3%A7%C3%A3o...;%3E+Identificando+jogador...;Ol%C3%A1%2C+eu+sou+Jonathan+Osmar!;%3E+Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;%3E+Institui%C3%A7%C3%A3o%3A+UNICID;%3E+Seja+bem-vindo+ao+meu+perfil!"
-        width="100%"
-        alt="Apresentação animada de Jonathan Osmar"
-      />
-
-      <p align="left">
-        <samp>
-          <font color="#C084FC">╚══════════════════════════╝</font>
-        </samp>
-      </p>
-
-      <p align="right">
-        <samp>STATUS: <font color="#A3E635">ONLINE ●</font></samp>
-      </p>
+    <td bgcolor="#160D27" style="padding:20px; border:1px solid #7136A8;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=16&amp;duration=500&amp;pause=300&amp;color=FFFFFF&amp;background=160D27&amp;multiline=true&amp;repeat=true&amp;width=850&amp;height=180&amp;lines=%3E+Iniciando+apresenta%C3%A7%C3%A3o...;%3E+Identificando+jogador...;Ol%C3%A1%2C+eu+sou+Jonathan+Osmar!;%3E+Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;%3E+Institui%C3%A7%C3%A3o%3A+UNICID;%3E+Bem-vindo+ao+meu+perfil!" width="100%" alt="Apresentação animada de Jonathan Osmar" />
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#251438" align="right" style="padding:10px; border:1px solid #7136A8;">
+      <samp>STATUS: ONLINE ●</samp>
     </td>
   </tr>
 </table>
