@@ -1,5 +1,6 @@
+<p align="center">
 <img src="jonathanosmar8bit.png" width="100%" alt="Jonathan Osmar"/>
-
+</p>
 <hr style="border: 0; height: 1px; background: #7136A8;"/>
 <!-- =============== Apresentação =============== -->
 <p align="center">
