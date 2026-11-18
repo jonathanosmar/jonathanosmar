@@ -65,7 +65,9 @@
 </div>
 
 <br/>
+
 <!-- =============== CONEXÕES =============== -->
+<p>
 ## 🌐 Vamos nos conectar?
 
 <p align="center">
