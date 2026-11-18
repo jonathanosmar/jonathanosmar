@@ -1,49 +1,29 @@
-# 👨‍💻 Jonathan Osmar
-
-<div align="center">
-
-<img src="jonathanosmar8bit.png" width="100%" alt="Jonathan Osmar - Back-End Developer" />
-
-### 🚀 Desenvolvedor Back-end em formação
-
-**Transformando conhecimento em soluções através da programação.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonathanosmar)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-
-</div>
-
----
-
-<!-- =============== APRESENTAÇÃO EM TERMINAL =============== -->
+<!-- =============== TERMINAL DE APRESENTAÇÃO =============== -->
 
 <h2 align="center">👾 SOBRE MIM</h2>
 
-<table align="center" width="100%">
+<table align="center" width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td bgcolor="#2B174A">
+    <td bgcolor="#241438" style="padding: 12px 16px; border: 1px solid #7136A8;">
       <p align="left">
-        <img src="https://img.shields.io/badge/●-2B174A?style=flat-square&labelColor=FF5F56" />
-        <img src="https://img.shields.io/badge/●-2B174A?style=flat-square&labelColor=FFBD2E" />
-        <img src="https://img.shields.io/badge/●-2B174A?style=flat-square&labelColor=27C93F" />
-        &nbsp;&nbsp;
-        <samp>jonathan@desenvolvedor: ~/apresentacao</samp>
+        <span>🔴 🟡 🟢</span>
+        &nbsp;&nbsp;&nbsp;
+        <samp>JONATHAN.EXE — TERMINAL DE INICIALIZAÇÃO</samp>
       </p>
     </td>
   </tr>
   <tr>
-    <td bgcolor="#21143A">
-      <div align="left">
-        <img
-          src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=700&pause=450&color=FFFFFF&background=21143A&vCenter=true&multiline=true&repeat=true&width=850&height=180&lines=%24+quem+sou+eu%3F;Ol%C3%A1%2C+eu+sou+Jonathan+Osmar!;%24+apresentacao.txt;Sou+estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;%C3%89+um+prazer+ter+voc%C3%AA+por+aqui!"
-          alt="Apresentação animada de Jonathan Osmar"
-        />
-      </div>
+    <td bgcolor="#160D27" style="padding: 20px; border: 1px solid #7136A8;">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=500&color=FFFFFF&background=160D27&vCenter=true&multiline=true&repeat=false&width=850&height=230&lines=%3E+Inicializando+personagem...;%3E+Identificando+usu%C3%A1rio...;JONATHAN+OSMAR;%3E+Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;%3E+Institui%C3%A7%C3%A3o%3A+UNICID;%3E+Bem-vindo+ao+meu+perfil%2C+jogador!;%5BSISTEMA+CARREGADO+COM+SUCESSO%5D"
+        alt="Terminal animado de apresentação de Jonathan Osmar"
+        width="100%"
+      />
     </td>
   </tr>
 </table>
-<!-- =============== FIM DA APRESENTAÇÃO =============== -->
+
+<!-- =============== FIM DO TERMINAL =============== -->
 
 <h2 align="center">🎮 ARSENAL DE CÓDIGO</h2>
 
