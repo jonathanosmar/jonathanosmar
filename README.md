@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=180&section=header&text=Jonathan%20Osmar&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Back-End%20Developer%20in%20Progress&descAlignY=58&descSize=18" width="100%" />
+<img src="6c83281a-bfb4-4d50-94c2-1dcd695fc231.png" width="100%" alt="Jonathan Osmar - Back-End Developer" />
 
 ### 🚀 Desenvolvedor Back-end em formação
 
