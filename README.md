@@ -1,8 +1,7 @@
 <img src="jonathanosmar8bit.png" width="100%" alt="Jonathan Osmar"/>
 
-
+<br/><br/>
 <!-- =============== Apresentação =============== -->
-
 <p align="center">
   <img
     src="./jonathan_terminal_gamer.svg"
@@ -10,8 +9,9 @@
     alt="Jonathan Osmar - Apresentação gamer"
   />
 </p>
-
 <!-- =============== Fim Apresentação =============== -->
+<br/><br/>
+
 <p align="center">
   <samp>「 HABILIDADES E FERRAMENTAS EM DESENVOLVIMENTO 」</samp>
 </p>
