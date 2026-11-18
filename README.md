@@ -84,5 +84,3 @@
 <p align="center">
   <samp>💜 Em constante aprendizado e evolução.</samp>
 </p>
-
-</div>
