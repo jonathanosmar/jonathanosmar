@@ -1,6 +1,6 @@
 <img src="jonathanosmar8bit.png" width="100%" alt="Jonathan Osmar"/>
 
-<br/><br/>
+<hr style="border: 0; height: 1px; background: #7136A8;"/>
 <!-- =============== Apresentação =============== -->
 <p align="center">
   <img
@@ -10,7 +10,8 @@
   />
 </p>
 <!-- =============== Fim Apresentação =============== -->
-<br/><br/>
+<hr style="border: 0; height: 1px; background: #7136A8;" />
+
 
 <p align="center">
   <samp>「 HABILIDADES E FERRAMENTAS EM DESENVOLVIMENTO 」</samp>
