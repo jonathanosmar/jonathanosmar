@@ -35,6 +35,8 @@ de código.
 
 ---
 
+<!-- =============== ARSENAL DE CÓDIGO =============== -->
+
 <h2 align="center">🎮 ARSENAL DE CÓDIGO</h2>
 
 <p align="center">
@@ -43,30 +45,23 @@ de código.
 
 <div align="center">
 
-  
-<!-- LINGUAGENS -->
+  <h3>⌨️ LINGUAGENS EM ESTUDO</h3>
 
-<h3>⌨️ LINGUAGENS EM ESTUDO</h3>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=BB86FC" height="40" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=BB86FC" height="40" />
 
-<img src="https://cdn.simpleicons.org/python/BB86FC" width="48" />
-<img src="https://cdn.simpleicons.org/java/BB86FC" width="48" />
+  <br/><br/>
 
-<p>
-  <samp>Python • Java</samp>
-</p>
+  <h3>🛠️ FERRAMENTAS DE DESENVOLVIMENTO</h3>
 
-<br/>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=BB86FC" height="40" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BB86FC" height="40" />
+  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=BB86FC" height="40" />
 
-<!-- FERRAMENTAS -->
+</div>
 
-<h3>🛠️ EQUIPAMENTOS DO DESENVOLVEDOR</h3>
-
-<img src="https://cdn.simpleicons.org/git/BB86FC" width="48" />
-<img src="https://cdn.simpleicons.org/github/BB86FC" width="48" />
-<img src="https://cdn.simpleicons.org/visualstudiocode/BB86FC" width="48" />
-
-<p>
-  <samp>Git • GitHub • Visual Studio Code</samp>
+<p align="center">
+  <samp>━━━━━━━━━━━━━━ ◈ ━━━━━━━━━━━━━━</samp>
 </p>
 
 <!-- =============== STATUS DO JOGADOR =============== -->
@@ -80,7 +75,7 @@ de código.
 <div align="center">
 
   <img height="165em"
-    src="https://github-readme-stats.vercel.app/api?username=jonathanosmar&show_icons=true&hide=rank&theme=tokyonight&bg_color=0D1117&title_color=BB86FC&icon_color=C084FC&text_color=FFFFFF&border_color=6A0DAD&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=jonathanosmar&show_icons=true&hide_rank=true&theme=tokyonight&bg_color=0D1117&title_color=BB86FC&icon_color=C084FC&text_color=FFFFFF&border_color=6A0DAD&include_all_commits=true&locale=pt-br"
   />
 
   <br/><br/>
@@ -92,11 +87,7 @@ de código.
 </div>
 
 <p align="center">
-  <samp>「 DISTRIBUIÇÃO DE LINGUAGENS NOS REPOSITÓRIOS 」</samp>
-</p>
-
-<p align="center">
-  <samp>⚠️ Os percentuais representam o código dos projetos, não o nível de domínio.</samp>
+  <samp>「 OS PERCENTUAIS REPRESENTAM A DISTRIBUIÇÃO DE CÓDIGO NOS REPOSITÓRIOS 」</samp>
 </p>
 
 <p align="center">
