@@ -84,3 +84,19 @@
 <p align="center">
   <samp>💜 Em constante aprendizado e evolução.</samp>
 </p>
+
+<!-- =============== COBRINHA DE CONTRIBUIÇÕES =============== -->
+<hr/>
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/jonathanosmar/jonathanosmar/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="Cobrinha roxa percorrendo minhas contribuições do GitHub"
+  />
+</div>
+
+<br/>
+
